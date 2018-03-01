@@ -33,7 +33,7 @@ class CpyptoCompareLayer {
         side = '+';
         result = close / open;
       } else {
-        side = '+';
+        side = '-';
         result = open / close;
       }
 
